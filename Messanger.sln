@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messanger", "Messanger\Messanger.csproj", "{91E2D3A8-6705-4086-A95E-2BE732803170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{492BBB82-9473-4FCE-89DC-4A28F152ACDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91E2D3A8-6705-4086-A95E-2BE732803170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E2D3A8-6705-4086-A95E-2BE732803170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E2D3A8-6705-4086-A95E-2BE732803170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492BBB82-9473-4FCE-89DC-4A28F152ACDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492BBB82-9473-4FCE-89DC-4A28F152ACDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492BBB82-9473-4FCE-89DC-4A28F152ACDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492BBB82-9473-4FCE-89DC-4A28F152ACDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
