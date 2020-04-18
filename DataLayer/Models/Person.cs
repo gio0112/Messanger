@@ -9,6 +9,6 @@ namespace DataLayer.Models
         public int ID { get; set; }
         public string Name { get; set; }
         public string UserName { get; set; }
-        public byte Status { get; set; }
+        public byte Status { get; set; } = 1;
     }
 }
